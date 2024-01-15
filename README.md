@@ -19,7 +19,7 @@ Para utilizar os patches neste projeto, você precisará do Pure Data instalado 
 1. Clone ou faça o download deste repositório em sua máquina local.
 
 ```bash
-git clone https://github.com/seu-username/TMM88-PD-Patches.git
+git clone https://github.com/tiagomoraismorgado/TMM88-PD-Patches.git
 ```
 
 Abra os patches desejados no Pure Data.
